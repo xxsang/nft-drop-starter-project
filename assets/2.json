@@ -1,0 +1,19 @@
+{
+    "name": "Flower colored",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "FLHk5hyDuSviWzvz9nS9yei3j5Uf7wkoDgbHNx1epjtF",
+          "share": 100
+        }
+      ]
+    }
+  }
